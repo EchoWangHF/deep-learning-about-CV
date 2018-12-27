@@ -386,3 +386,6 @@ ctx=try_gpu4()
 net.initialize(force_reinit=True, ctx=ctx, init=init.Xavier())
 trainer = gluon.Trainer(net.collect_params(), 'sgd', {'learning_rate': lr})
 train_module(net, train_iter, test_iter, batch_size, trainer, ctx, num_epochs)
+
+
+
