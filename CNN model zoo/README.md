@@ -1,15 +1,15 @@
 # Some CNN models with mxnet
 
-#### LeNext
+#### [LeNext](https://github.com/EchoWangHF/deep-learning-about-CV/blob/master/CNN%20model%20zoo/LeNet.py)
 
-#### AlexNet
+#### [AlexNet](https://github.com/EchoWangHF/deep-learning-about-CV/blob/master/CNN%20model%20zoo/AlexNet.py)
 
-#### VGG
+#### [VGG](https://github.com/EchoWangHF/deep-learning-about-CV/blob/master/CNN%20model%20zoo/VGG.py)
 
-#### NIN
+#### [NIN](https://github.com/EchoWangHF/deep-learning-about-CV/blob/master/CNN%20model%20zoo/NiN.py)
 
-#### GoogleNet
+#### [GoogleNet](https://github.com/EchoWangHF/deep-learning-about-CV/blob/master/CNN%20model%20zoo/GoogleNet.py)
 
-#### ResNet
+#### [ResNet](https://github.com/EchoWangHF/deep-learning-about-CV/blob/master/CNN%20model%20zoo/ResNet.py)
 
-#### DenseNet
+#### [DenseNet](https://github.com/EchoWangHF/deep-learning-about-CV/blob/master/CNN%20model%20zoo/DenseNet.py)
