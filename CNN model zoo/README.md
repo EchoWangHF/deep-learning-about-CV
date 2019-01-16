@@ -1,4 +1,4 @@
-# Some CNN modles with mxnet
+# Some CNN models with mxnet
 
 #### LeNext
 
