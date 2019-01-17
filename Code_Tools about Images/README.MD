@@ -13,4 +13,4 @@
 `python im2rec.py ./example_rec ./example/ --recursive --pass-through --pack-label --num-thread 2`</br>
 此时，则会生成.idx和.rec文件，则可以用作作为训练集。</br>
 
-2. 使用`gluon.data.DataLoader()`制作数据集，前提都是将数据按照类别，用不同的文件夹分好类。代码可见：example
+2.使用`gluon.data.DataLoader()`制作数据集，前提都是将数据按照类别，用不同的文件夹分好类。代码可见：`data_load.py`
