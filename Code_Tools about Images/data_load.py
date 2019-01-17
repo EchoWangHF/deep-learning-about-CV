@@ -95,6 +95,7 @@ lighting_param = 0.1
 batch_size = 32
 num_workers=1
 
+#数据图片增广
 transform_train = transforms.Compose([
     transforms.Resize(224),
     transforms.RandomFlipLeftRight(),
