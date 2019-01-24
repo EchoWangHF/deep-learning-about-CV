@@ -1,4 +1,4 @@
-# Learning-mxnet
+# CV using deep learning
 Some work with mxnet
 
 #### 1 一些工具型代码的归纳备份 
