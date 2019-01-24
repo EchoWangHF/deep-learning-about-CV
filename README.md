@@ -9,3 +9,6 @@ Some work with mxnet
 
 #### 3 Yolo项目的代码总结
 [here](https://github.com/EchoWangHF/Learning-mxnet/tree/master/Yolo)；</br>
+
+#### 4 Vehicle Logo Detection
+车标检测项目，项目要求：快速，准确，可使用。
