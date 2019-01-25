@@ -5,5 +5,5 @@
 标注软件为 [Image_Label_Tool](wwww.baidu.com)
 
 <div align="center">
-<img src="https://github.com/EchoWangHF/Image-Label-Tool/blob/master/images/1.png" height="400" width="600" >
+<img src="https://github.com/EchoWangHF/deep-learning-about-CV/tree/master/Vehicle%20Logo%20Detection/data/15000.jpg" height="400" width="600" >
 </div>
